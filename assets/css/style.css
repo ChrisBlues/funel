@@ -327,7 +327,7 @@ header .container {
 .about {
     position: relative;
     z-index: 1;
-    background: url("../Images/about-bg.png") no-repeat;
+    background: url("../images/about-bg.png") no-repeat;
     background-position: center;
     background-size: cover;
     padding: 120px 0;
